@@ -1,0 +1,43 @@
+﻿  container.cpp
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.h(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.h(22,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\Diagonal.h(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\Diagonal.h(23,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(43,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(45,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(46,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(54,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(56,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(57,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(65,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(67,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(68,39): warning C4018: <: несоответствие типов со знаком и без знака
+  diagonal.cpp
+C:\Users\alanb\source\repos\main\main\diagonal.h(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\diagonal.h(23,31): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.h(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.h(22,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\Diagonal.h(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\Diagonal.h(23,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(43,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(45,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(46,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(54,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(56,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(57,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(65,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(67,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\container.h(68,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\main.cpp(14,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\main.cpp(57,14): warning C4018: <: несоответствие типов со знаком и без знака
+  Matrix.cpp
+  SimpleArray.cpp
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.h(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.h(22,31): warning C4018: <: несоответствие типов со знаком и без знака
+  SimpleMatrix.cpp
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.cpp(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alanb\source\repos\main\main\SimpleMatrix.cpp(22,31): warning C4018: <: несоответствие типов со знаком и без знака
+  TriangleMatrix.cpp
+  Создание кода...
+  main.vcxproj -> C:\Users\alanb\source\repos\main\Debug\main.exe
